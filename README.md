@@ -21,7 +21,7 @@ The objective is to find the total number of distinct configurations of tiles
 that allow us to tile the given area.
 
 ### Solution Setup & Usage
-- Compile the 'main.cpp' file using the command `g++ main.cpp -o solution.out`
+- Compile the 'solution.cpp' file using the command `g++ solution.cpp -o solution.out`
 - Run the executable on any test input file, e.g., `./solution.out < example_test.txt`  
 Note that the input file should adhere to the input structure laid out by the project statement
   
