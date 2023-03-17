@@ -1,7 +1,7 @@
 # ASA Project I: Tiling Problem
 
 ### Problem Description
-We need to tile a given area inside a rectangle, bounded by a staircase path. 
+We want to tile the area defined inside a rectangle bounded by the staircase path. 
 The area to be tiled is defined over a unit grid, with n rows and m columns. 
 The tiles to be used are squares with dimensions 1x1, 2x2, and so on. Since 
 you can use an arbitrary number of square tile of various sizes, there are 
@@ -21,4 +21,7 @@ The objective is to find the total number of distinct configurations of tiles
 that allow us to tile the given area.
 
 ### Solution Setup & Usage
-*(To be added)*
+- Compile the 'main.cpp' file using the command `g++ main.cpp -o solution.out`
+- Run the executable on any test input file, e.g., `./solution.out < example_test.txt`  
+Note that the input file should adhere to the input structure laid out by the project statement
+  
