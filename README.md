@@ -1,4 +1,4 @@
-# ASA Project I: Tiling Problem
+# Analysis and Synthesis of Algorithms Project I: Tiling Problem
 
 ### Problem Description
 We want to tile the area defined inside a rectangle bounded by the staircase path. 
